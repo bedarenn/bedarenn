@@ -17,5 +17,5 @@ Here are some of my notable projects:
 - **[FdF](https://github.com/bedarenn/FdF_matrix)**: The project visualizes a map in an isometric 3D view, where data points are represented as a grid, and matrix rotations are used for transformations. The calculations rely on matrix rotations to achieve the isometric projection, providing an interactive 3D visualization. The project is implemented in C and the focus is on transforming and displaying data through graphical representation.
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/benoit-darenne-9ab432343/)
+- [LinkedIn](https://www.linkedin.com/in/benoit-darenne/)
 - [GitHub](https://github.com/bedarenn)
